@@ -1,0 +1,1 @@
+A simple recipes page to try out the basics of HTML
